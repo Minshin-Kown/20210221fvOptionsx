@@ -1,0 +1,5 @@
+generalSources=sources/general
+derivedSources=sources/derived
+interRegion = sources/interRegion
+mine = sources/mine
+LIB = $(FOAM_USER_LIBBIN)/libfvOptionsx
